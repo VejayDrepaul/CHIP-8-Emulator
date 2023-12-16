@@ -1,6 +1,6 @@
 # rerequisites
 *.d
-
+.out
 # Compiled Object files
 *.slo
 *.lo
